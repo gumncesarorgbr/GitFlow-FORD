@@ -1,2 +1,2 @@
 Arquivo readme teste
-segunda atualização
+segunda atualização sem conflitos agora
